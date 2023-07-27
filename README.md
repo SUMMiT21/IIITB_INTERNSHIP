@@ -52,5 +52,5 @@ GND-->Arduino GND
 GPO0 ESP32--> GND ESP32 (It has to be pulled out after uploading the code and then the Reset button is to be pressed to get the Output IP address on the serial monitor)
 
 
-#Both of the codes are given in the folder. 
+#All of the codes are given in the folder. 
 
